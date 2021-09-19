@@ -1,0 +1,46 @@
+body {
+  margin: center;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#app {
+  background-color: white;
+  border-radius: 10px;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 7%;
+  padding-top: 3%;
+  opacity: 0.7;
+}
+
+.header {
+  font-type: bold;
+}
+
+.location {
+ font-type: bold;
+  font-size: 2em;
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+
+#fahrenheit {
+  margin-bottom: 2%;
+  font-size: 2em;
+}
+
+#weatherIcon {
+  font-size: 3em;
+}
+
+#weatherType {
+  font-size: 1.5em;
+  margin-bottom: 10%;
+}
+
+.footer {
+  font: arial;
+  font-size: 0.7em;
+  margin-top: 1%;
+}
