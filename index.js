@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var API_KEY = "d62fee7ba8026b79080a3a653e31979f";
+  var API_KEY = "";
 
   //get coordinates
  if (navigator.geolocation) {
